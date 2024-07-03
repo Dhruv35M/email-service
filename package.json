@@ -12,6 +12,7 @@
   "author": "dhruv mishra",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "nodemailer": "^6.9.13"
   }
